@@ -2,10 +2,9 @@
 **Course:** CST 315 Operating Systems
 **Programmer:** Komal Khan 
 
-This is a simple Hello World program in C++
+(Part A) Hello World program in C++
 
-## How to Run
-
+## How to run
 ### Prerequisites
 - Kate text editor
 - Ubuntu Linux (24.04.1)
@@ -19,3 +18,26 @@ This is a simple Hello World program in C++
 
 ### Output:
 Hello World!!!
+
+(Part B) Shell script file with 5 commands
+
+## How to run
+### Steps
+1. From shell use command nano with filename (nano test.sh)
+2. This will take you to nano text editor where you can write the code
+3. Refer to **test.sh** file for the code and commands used
+4. Use Ctrl + O to save the code and press enter then use Ctrl + X to go back to terminal
+5. Then use commands **chmod +x test.sh** and **./test.sh** to run the code
+
+### Output:
+Date and time
+Current directory
+Files in current directory
+Disk usage space
+Login user name
+
+
+
+
+
+
