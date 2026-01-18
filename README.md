@@ -2,7 +2,7 @@
 **Course:** CST 315 Operating Systems
 **Programmer:** Komal Khan 
 
-(Part A) Hello World program in C++ **[Hello.cpp](Hello.cpp)**
+# (Part A) Hello World program in C++ **[Hello.cpp](Hello.cpp)**
 
 ## How to run
 ### Prerequisites
@@ -19,7 +19,7 @@
 ### Output:
 Hello World!!!
 
-(Part B) Shell script file with 5 commands
+# (Part B) Shell script file with 5 commands
 
 ## How to run
 ### Steps
