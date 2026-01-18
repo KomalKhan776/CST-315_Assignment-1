@@ -30,10 +30,10 @@ Hello World!!!
 5. Then use commands **chmod +x test.sh** and **./test.sh** to run the code
 
 ### Output:
-Date and time
-Current directory
-Files in current directory
-Disk usage space
+Date and time, 
+Current directory, 
+Files in current directory, 
+Disk usage space, 
 Login user name
 
 
