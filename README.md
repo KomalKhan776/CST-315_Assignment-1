@@ -25,7 +25,7 @@ Hello World!!!
 ### Steps
 1. From shell use command nano with filename (nano test.sh)
 2. This will take you to nano text editor where you can write the code
-3. Refer to **test.sh** file for the code and commands used
+3. Refer to **[test.sh](test.sh)** file for the code and commands used
 4. Use Ctrl + O to save the code and press enter then use Ctrl + X to go back to terminal
 5. Then use commands **chmod +x test.sh** and **./test.sh** to run the code
 
